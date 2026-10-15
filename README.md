@@ -1,3 +1,3 @@
 # sutdent-apnaCollege
 This is my first git
-Author Name Abdulwahab
+Author Name Abdulwahab is a good person
